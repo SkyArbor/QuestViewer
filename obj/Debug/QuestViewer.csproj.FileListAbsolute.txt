@@ -1,0 +1,13 @@
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\bin\Debug\QuestViewer.exe.config
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\bin\Debug\QuestViewer.exe
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\bin\Debug\QuestViewer.pdb
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\bin\Debug\reWZ.dll
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\bin\Debug\reWZ.xml
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.Form1.resources
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.Properties.Resources.resources
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.csproj.GenerateResource.Cache
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.csproj.CoreCompileInputs.cache
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.exe
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.pdb
+I:\Visual Studio 2017\Projects\QuestViewer\QuestViewer\obj\Debug\QuestViewer.Form2.resources
