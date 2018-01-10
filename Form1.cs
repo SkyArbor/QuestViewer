@@ -180,11 +180,17 @@ namespace QuestViewer
 
         private void testToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if(questSearcher.wzFilePath==null)
+            {
+                MessageBox.Show("Open a wz file first.");
+                return;
+            }
             Form2 form2 = new Form2();
             form2.getValue = ChangeSearchArgs;
             form2.ShowDialog();
             string test = questSearcher.SearchByName(searchArgs.name);
             File.WriteAllText(questSearcher.wzFilePath + "/" + searchArgs.name + ".txt", test);
+            File.WriteAllText(questSearcher.wzFilePath + "/" + searchArgs.name + "_id.txt", questSearcher.questIds);
             MessageBox.Show("Finished!\r\nPath: "+ questSearcher.wzFilePath + "/" + searchArgs.name + ".txt");
         }
     }
