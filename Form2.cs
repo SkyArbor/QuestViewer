@@ -13,7 +13,7 @@ namespace QuestViewer
 
     public partial class Form2 : Form
     {
-
+        
         public delegate void GetValue(string name, string level, int type);
         public GetValue getValue;
         public Form2()
